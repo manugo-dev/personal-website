@@ -1,0 +1,24 @@
+{
+  "name": "personal-website-js",
+  "version": "1.0.0",
+  "description": "Personal CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelgomezo/personal-website-js.git"
+  },
+  "keywords": [
+    "website",
+    "cv",
+    "personal"
+  ],
+  "author": "Manuel Alejandro Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelgomezo/personal-website-js/issues"
+  },
+  "homepage": "https://github.com/manuelgomezo/personal-website-js#readme"
+}
